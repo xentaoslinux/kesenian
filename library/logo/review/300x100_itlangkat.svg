@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300"
+   height="100"
+   viewBox="0 0 79.375 26.458334"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (unknown)"
+   sodipodi:docname="itlangkat.svg"
+   inkscape:export-filename="/home/dindin/itlangkat.svg.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="70.668086 : 7.4263797 : 1"
+       inkscape:vp_y="0 : 999.99998 : 0"
+       inkscape:vp_z="50.078742 : 7.4263797 : 1"
+       inkscape:persp3d-origin="60.373414 : 3.0166574 : 1"
+       id="perspective3837" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="190.85934"
+     inkscape:cy="57.800822"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1360"
+     inkscape:window-height="710"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     objecttolerance="20"
+     gridtolerance="10" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-270.54165)">
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.29261863;stroke-opacity:1"
+       id="rect3821"
+       width="12.203869"
+       height="4.5748968"
+       x="259.11545"
+       y="369.95789"
+       transform="matrix(1,0,-0.66689316,0.74515335,0,0)" />
+    <rect
+       y="-28.1579"
+       x="264.74033"
+       height="4.7942762"
+       width="10.208042"
+       id="rect3823"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.27396515;stroke-opacity:1"
+       transform="matrix(-0.00970174,0.99995294,-0.78111477,-0.62438748,0,0)" />
+    <ellipse
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31763771;stroke-opacity:1"
+       id="path3859"
+       cx="40.886051"
+       cy="286.51929"
+       rx="1.5613616"
+       ry="1.469177" />
+    <ellipse
+       ry="1.9548802"
+       rx="2.1157353"
+       cy="285.15732"
+       cx="52.679798"
+       id="ellipse3861"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.42651469;stroke-opacity:1" />
+    <ellipse
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31763771;stroke-opacity:1"
+       id="ellipse3863"
+       cx="64.659904"
+       cy="286.50647"
+       rx="1.5613616"
+       ry="1.469177" />
+    <rect
+       transform="matrix(-0.00970174,0.99995294,-0.78111477,-0.62438748,0,0)"
+       style="fill:#55ddff;fill-opacity:1;stroke:none;stroke-width:0.27396515;stroke-opacity:1"
+       id="rect3877"
+       width="10.208042"
+       height="4.7942762"
+       x="269.53909"
+       y="-20.101976" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.64895344px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.29122382"
+       x="19.573475"
+       y="294.42197"
+       id="text3800"
+       transform="scale(1.0220844,0.97839279)"><tspan
+         sodipodi:role="line"
+         id="tspan3798"
+         x="19.573475"
+         y="294.42197"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';fill:#000000;fill-opacity:1;stroke-width:0.29122382">ITLangkat</tspan></text>
+  </g>
+</svg>
